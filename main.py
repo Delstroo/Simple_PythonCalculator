@@ -68,6 +68,5 @@ def main():
         else:
             print("Invalid input! Please select a valid option.")
 
-# Entry point
 if __name__ == "__main__":
     main()
